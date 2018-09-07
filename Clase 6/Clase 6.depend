@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536323216 source:c:\users\alumno\desktop\clase 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1536324144 c:\users\alumno\desktop\clase 6\array.h
+
+1536324786 source:c:\users\alumno\desktop\clase 6\array.c
+	<stdio.h>
+	"array.h"
+
